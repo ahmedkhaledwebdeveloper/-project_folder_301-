@@ -36,7 +36,7 @@
 
 .fl{
     color: blue;
-    font-weight: bold;  
+    font-weight: bold;
 }
 
 table,
@@ -49,4 +49,16 @@ td {
 th {
     font-weight: bold;
     color: red;
+}
+
+
+.wrapper{
+	width:50%;
+	margin:0 auto;
+	border:5px solid #ddd;
+}
+
+.first_name{
+	width:50%;
+	height:25 px;
 }
