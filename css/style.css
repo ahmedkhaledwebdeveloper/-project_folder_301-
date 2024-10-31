@@ -24,11 +24,13 @@
     margin-right: auto;
 }
 
-}
 
-.avd{
-	width:50%;
+.gojol{
+	width:30%;
 	height:300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -41,7 +43,7 @@ table,
 th,
 tr,
 td {
-    border: 3px solid black;
+    border: 2px solid black;
 }
 
 th {
